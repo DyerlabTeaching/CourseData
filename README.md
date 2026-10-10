@@ -1,8 +1,4 @@
-# Course Data
-
-This public repository contains data sets used in courses I teach.  
-
-Every file can be downloaded directly from
+This public repository contains data sets used in courses I teach.  Every file can be downloaded directly from
 
 ```
 https://dyerlabteaching.github.io/CourseData/<Category>/<file>
