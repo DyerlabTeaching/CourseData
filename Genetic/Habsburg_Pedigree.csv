@@ -1,0 +1,36 @@
+ID,Name,Sex,Father,Mother,Notes
+Ferdinand_Aragon,Ferdinand II of Aragon,M,,,Founder; King of Aragon
+Isabella_Castile,Isabella I of Castile,F,,,Founder; Queen of Castile
+Maximilian_I,Maximilian I,M,,,Founder; Holy Roman Emperor
+Mary_Burgundy,Mary of Burgundy,F,,,Founder; Duchess of Burgundy
+Manuel_I,Manuel I of Portugal,M,,,Founder; King of Portugal
+Maria_Aragon,Maria of Aragon,F,Ferdinand_Aragon,Isabella_Castile,Queen of Portugal
+Joanna,Joanna of Castile,F,Ferdinand_Aragon,Isabella_Castile,Queen of Castile and Aragon
+Philip_I,Philip I of Castile,M,Maximilian_I,Mary_Burgundy,The Handsome
+John_III,John III of Portugal,M,Manuel_I,Maria_Aragon,King of Portugal
+Isabella_Portugal,Isabella of Portugal,F,Manuel_I,Maria_Aragon,Holy Roman Empress
+Catherine,Catherine of Austria,F,Philip_I,Joanna,Queen of Portugal
+Charles_V,Charles V,M,Philip_I,Joanna,Charles I of Spain; Holy Roman Emperor
+Ferdinand_I,Ferdinand I,M,Philip_I,Joanna,Holy Roman Emperor
+Anna_Hungary,Anna of Bohemia and Hungary,F,,,Founder
+Albert_V,Albert V of Bavaria,M,,,Founder; Duke of Bavaria
+Renata_Lorraine,Renata of Lorraine,F,,,Founder
+Mary_Portugal,Maria Manuela of Portugal,F,John_III,Catherine,First wife of Philip II
+Philip_II,Philip II of Spain,M,Charles_V,Isabella_Portugal,
+Maria_Spain,Maria of Spain,F,Charles_V,Isabella_Portugal,Holy Roman Empress
+Maximilian_II,Maximilian II,M,Ferdinand_I,Anna_Hungary,Holy Roman Emperor
+Charles_Styria,Charles II of Austria,M,Ferdinand_I,Anna_Hungary,Archduke of Inner Austria
+Anna_1528,Anna of Austria (1528-1590),F,Ferdinand_I,Anna_Hungary,Duchess of Bavaria
+Don_Carlos,Carlos of Spain,M,Philip_II,Mary_Portugal,Don Carlos; Prince of Asturias
+Anna_1549,Anna of Austria (1549-1580),F,Maximilian_II,Maria_Spain,Fourth wife of Philip II
+Maria_Anna_1551,Maria Anna of Bavaria (1551-1608),F,Albert_V,Anna_1528,Archduchess of Inner Austria
+William_V,William V of Bavaria,M,Albert_V,Anna_1528,Duke of Bavaria
+Philip_III,Philip III of Spain,M,Philip_II,Anna_1549,
+Margaret_Austria,Margaret of Austria,F,Charles_Styria,Maria_Anna_1551,Queen of Spain
+Ferdinand_II,Ferdinand II,M,Charles_Styria,Maria_Anna_1551,Holy Roman Emperor
+Maria_Anna_1574,Maria Anna of Bavaria (1574-1616),F,William_V,Renata_Lorraine,First wife of Ferdinand II
+Philip_IV,Philip IV of Spain,M,Philip_III,Margaret_Austria,
+Maria_Anna_1606,Maria Anna of Spain,F,Philip_III,Margaret_Austria,Holy Roman Empress
+Ferdinand_III,Ferdinand III,M,Ferdinand_II,Maria_Anna_1574,Holy Roman Emperor
+Mariana,Mariana of Austria,F,Ferdinand_III,Maria_Anna_1606,Second wife of Philip IV
+Charles_II,Charles II of Spain,M,Philip_IV,Mariana,The Bewitched; last Spanish Habsburg king
